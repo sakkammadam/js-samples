@@ -1,0 +1,1 @@
+console.log("Hello from my GitHub Pages hosted script!");
